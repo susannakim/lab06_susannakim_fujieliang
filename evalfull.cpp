@@ -1,5 +1,5 @@
 // evalfull.cpp - evaluates a fully-parenthesized expression
-// NAME(S), DATE
+// Susanna Kim & Fujie Liang, 5/16/17
 
 #include <cstdlib>   // for atof function
 #include <cstdio>    // for sscanf
